@@ -1,7 +1,7 @@
 #Modify the following details
 $PROJECT_KEY = "" # Example 'DATA' (Usually JIRA ID is used for best practice)
 $REPO_DIR = "" # Folder where code is present
-$REPO_URL = "https://bitbucket/projects/$PROJECT_KEY/repos/$REPO_DIR"  # Sample; it differs for every project
+$REPO_URL = "https://git/projects/$PROJECT_KEY/repos/$REPO_DIR"  # Sample; it differs for every project
 $BRANCH_NAME = "" # Example: 'dev' or 'main'
 
 # Get the path of the script's directory
